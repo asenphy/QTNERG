@@ -1,2 +1,2 @@
 # QTNERG
-Quantum Transport and NanoElectronics Research Group
+Quantum Transport and Nano Electronics Research Group
